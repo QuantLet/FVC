@@ -1,0 +1,14 @@
+Name of Quantlet: FVCpressdays
+
+Published in: Face Value of Companies
+
+Description: 'Plots the volatility of DAX30 index on days where the European Central Bank is holding press conferences vs. all other days between January 2015 until September 2017. Volatilities are averaged for each group and estimated from the data, based on 5 minute data. Vertical lines indicate the press release by European central bank council at 13.45, the beginning of the press conference at 14.30, held by the president, and the approximate end at 15.30.'
+
+Keywords: financial, plot, empirical, volatility, visualization
+
+Author: Sophie Burgard
+
+Submitted:  05.11.2017
+
+Datafile: 'DAX_all_days_aggregate.csv, DAX_press_days_aggregate.csv'
+

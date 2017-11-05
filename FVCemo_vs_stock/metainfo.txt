@@ -1,0 +1,11 @@
+Name of Quantlet: FVCemo_vs_stock
+
+Published in: Face Value of Companies
+
+Description: 'Plots smoothed emo scores (anger, contempt, disgust, fear, surprise, happiness, sadness, neutral, surprise) and stock movement of Volkswagen stock for first 30 minutes of Volkswagen press conference on 05.05.2017.'
+
+Keywords: neural-network, estimation, empirical, financial, plot, visualization
+
+Author: Sophie Burgard
+
+Submitted: 05.11.2017

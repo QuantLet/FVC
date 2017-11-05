@@ -1,0 +1,14 @@
+Name of Quantlet: FVCcorr
+
+Published in: Face Value of Companies
+
+Description: 'Plots the correlation of aggregated emotional scores for 70 ECB press conferences (Jan. 2011 - Sep. 2017) and daily returns of Eurostoxx50 data.'
+
+Keywords: financial, plot, empirical, correlation, visualization, projection
+
+Author: Sophie Burgard
+
+Submitted:  05.11.2017
+
+Datafile: 'ECB_avg_emo.csv'
+

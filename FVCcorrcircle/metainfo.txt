@@ -1,0 +1,14 @@
+Name of Quantlet: FVCcorrcirlcle
+
+Published in: Face Value of Companies
+
+Description: 'Plots the correlation circle of the partial least squares model from Q-let FVCEurostoxxPLS. Dependent variable Y are daily returns of Eurostoxx50 data (Jan. 2011 - Sep. 2017), independent are emotional scores on ECB press conference webcasts (70 observations).'
+
+Keywords: financial, plot, empirical, correlation, visualization, projection
+
+Author: Sophie Burgard
+
+Submitted:  05.11.2017
+
+Datafile: 'ECB_avg_emo.csv'
+

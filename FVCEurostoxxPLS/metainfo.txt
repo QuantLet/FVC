@@ -1,0 +1,14 @@
+Name of Quantlet: FVCEurostoxxPLS
+
+Published in: Face Value of Companies
+
+Description: 'Estimates a partial least squares (PLS) model. Independent variables are averaged emotion scores (anger, disgust, fear, contempt, happiness, neutrality, sadness, surprise) for all webcasts of press conferences held by the European central bank between Jan. 2011 and Sep. 2017. The dependent variable is daily return data of Eurostoxx50.'
+
+Keywords: financial, projection, principal-components, R-squared, correlation, multi-dimensional, returns
+
+Author: Sophie Burgard
+
+Submitted:  05.11.2017
+
+Datafile: 'ECB_avg_emo.csv'
+
