@@ -51,3 +51,4 @@ event.plot        = append(append(event.plot[1:61,], '2016-09'), event.plot[62:6
 axis(side   = 1, 
      at     = m[c(1, 10, 20, 30, 40, 50, 60, 70)], 
      labels = event.plot[c(1, 10, 20, 30, 40, 50, 60, 70)])
+

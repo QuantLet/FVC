@@ -1,0 +1,16 @@
+Name of Quantlet: FVCConvNet
+
+Published in: Face Value of Companies
+
+Description: 'Fits an Convolutional Neural Network that classifies facial expressions into seven basic emotions (anger, disgust, fear, happiness, neutral, sadness, surprise) using the Keras library for python. The training and testing dataset can be obtained from kaggle''s ''Facial Expression Recognition Challenge''. The subfolder ''model weights'' contains model weights and model architecture in .json-Format. Allows to access the estimation results without rerunning the calculations.'
+
+Keywords: 'neural-network, estimation, empirical, optimization, descending-gradients'
+
+Author: Sophie Burgard
+
+Submitted:  05.11.2017
+
+
+
+
+

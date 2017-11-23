@@ -2,7 +2,7 @@ Name of Quantlet: FVCperformancePlot
 
 Published in: Face Value of Companies
 
-Description: 'Plots yccuracy of FVCConvNet and FVCConvNetFinetune 
+Description: 'Plots accuracy of FVCConvNet and FVCConvNetFinetune 
 on identical training and validation set for each iteration of estimation'
 
 Keywords: neural-network, estimation, empirical, optimization, descending-gradients, plot

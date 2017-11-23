@@ -29,7 +29,7 @@ vw$t_sec2 = vw$t_sec - 75
 set = vw[31:142,]
 
 #x: axis length for smoothing
-x    = nrow(data)
+x    = seq(1,nrow(data))
 
 #smooth lines
 ang  = smooth.spline(x, data$anger_s, spar=0.7)

@@ -1,0 +1,14 @@
+Name of Quantlet: FVCcall_API
+
+Published in: Face Value of Companies
+
+Description: "Calls Emotion API of Microsoft Cognitive Service. Requires either a key from Microsoft Azure (www.azure.microsoft.com). Can be used to send images from hard drive to API, returns a vector of eight emotion-scores."
+
+
+Keywords: 'neural-network, estimation, empirical, optimization, descending-gradients'
+
+Author: Sophie Burgard
+
+Submitted: '21.11.2017'
+
+

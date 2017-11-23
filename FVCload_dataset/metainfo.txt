@@ -1,0 +1,14 @@
+Name of Quantlet: FVCload_dataset
+
+Published in: Face Value of Companies
+
+Description: "Automizes the procedure of loading the data set and restructuring the images from one-dimensional array into two-dimensional images. Required dataset is from Kaggle's 2013 Facial Expression Recognition Competition and can be downloaded under 'https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge' "
+
+
+Keywords: 'neural-network, estimation, empirical, optimization, descending-gradients'
+
+Author: Sophie Burgard
+
+Submitted: '21.11.2017'
+
+

@@ -1,0 +1,15 @@
+Name of Quantlet: FVCEurostoxxOLS
+
+Published in: Face Value of Companies
+
+Description: 'Estimates a ordinary least squares models in order to explain returns of Eurostoxx50 on press conference days of the European Central Bank based on facial expression scores of the provided video material.'
+
+
+Keywords: 'financial, projection, least-squares, multivariate, plot, returns'
+
+Author: Sophie Burgard
+
+Submitted:  05.11.2017
+
+Datafile: 'ECB_avg_emo.csv'
+

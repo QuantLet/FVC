@@ -1,0 +1,15 @@
+Name of Quantlet: FVCEurostoxxLDA
+
+Published in: Face Value of Companies
+
+Description: 'Estimates a linear discriminant analysis (LDA) in order to separate positive and negative returns of Eurostoxx50 on press conference days of the European Central Bank based on facial expression scores of the provided video material. Plots resulting histograms and distributions.'
+
+
+Keywords: 'financial, projection, discriminant-analysis, multivariate, plot, returns'
+
+Author: Sophie Burgard
+
+Submitted:  05.11.2017
+
+Datafile: 'ECB_avg_emo.csv'
+
