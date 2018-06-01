@@ -1,4 +1,4 @@
-Name of Quantlet: FVCcorrcirlcle
+Name of Quantlet: FVCcorrcircle
 
 Published in: Face Value of Companies
 

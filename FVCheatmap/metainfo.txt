@@ -1,4 +1,4 @@
-Name of Quantlet: FVCheatmpa
+Name of Quantlet: FVCheatmap
 
 Published in: Face Value of Companies
 

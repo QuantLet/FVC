@@ -1,4 +1,4 @@
-Name of Quantlet: FVCperformancePlot
+Name of Quantlet: FVCperformance
 
 Published in: Face Value of Companies
 
