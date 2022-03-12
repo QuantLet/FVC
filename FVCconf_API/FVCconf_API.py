@@ -46,7 +46,7 @@ comp_test = np.where(test_results['true']== test_results['prediction']) #1470/35
 
 #compare without NA rows
 test_results_nadrop = test_results.dropna()
-comp_test_nadrop = np.where(pred_test_nadrop['true']== pred_test_nadrop['prediction']) #1470/2388 = 61,56% matches
+comp_test_nadrop = np.where(test_results_nadrop['true']== test_results_nadrop['prediction']) #1470/2388 = 61,56% matches
 
 
 
@@ -64,7 +64,7 @@ from sklearn import metrics
 #drop 'contempt'
 test_results_conf = test_results_nadrop.drop(test_results_nadrop[test_results_nadrop.prediction == 'contempt'].index)
 
-confusion = sklearn.metrics.confusion_matrix(test_results_conf['true'], test_results_conf['prediction'])
+confusion = metrics.confusion_matrix(test_results_conf['true'], test_results_conf['prediction'])
 index = ['anger', 'disgust', 'fear', 'happy', 'sad', 'surprise', 'neutral']  
 
 
