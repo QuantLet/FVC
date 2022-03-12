@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import sklearn.metrics
-
+import keras
 
 #load data, requires function load_dataset() from Q-let: FVCload_dataset 
 #and original data from Kaggle's Facial Expression Recognition Competition 2013
@@ -13,13 +13,13 @@ json_file         = open('model_CNN.json', 'r')
 loaded_model_json = json_file.read()
 json_file.close()
 
-loaded_model = model_from_json(loaded_model_json)
+loaded_model = keras.models.model_from_json(loaded_model_json)
 # load weights into new model
 loaded_model.load_weights("weights_CNN.h5")
 
 
 #generate predictions based for test set
-y_pred = loaded_model.predict_classes(x_test)
+y_pred = np.argmax(loaded_model.predict(x_test),axis=1)
 np.save('y_pred ', y_pred)
 
 
